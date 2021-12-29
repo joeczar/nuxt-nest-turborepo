@@ -1,0 +1,8 @@
+{
+  "name": "nuxt-nest-turborepo",
+  "version": "1.0.0",
+  "description": "starter for nuxtjs & nestjs monorepo",
+  "main": "/dist/main.js",
+  "author": "Joe Czarnecki (joe.czar@outlook.com)",
+  "license": "MIT"
+}
